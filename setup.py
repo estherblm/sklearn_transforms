@@ -12,7 +12,6 @@ setup(
       author='Vanderlei Munhoz',
       author_email='vnderlev@protonmail.ch',
       license='BSD',
-      install_requires=['imbalanced-learn==0.4.3'],
       packages=[
             'my_custom_sklearn_transforms'
       ],
